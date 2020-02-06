@@ -1,7 +1,7 @@
 # BiomassMW
 MATLAB and Python functions for determining the chemical formulae and molecular weights of macromolecules in genome-scale metabolic models.  
 Please see the following paper for more details:  
-Siu H. J. Chan, Jingyi Cai, Lin Wang, Margaret N. Simons-Senftle, Costas D. Maranas; Standardizing biomass reactions and ensuring complete mass balance in genome-scale metabolic models, Bioinformatics, btx453  
+Siu H. J. Chan, Jingyi Cai, Lin Wang, Margaret N. Simons-Senftle, Costas D. Maranas (2017) Standardizing biomass reactions and ensuring complete mass balance in genome-scale metabolic models, *Bioinformatics*, 33(22), 3603–3609. 
 **[Link](https://doi.org/10.1093/bioinformatics/btx453)**
 
 **MATLAB** functions (`MatlabCobraToolbox/` Require **[COBRA Toolbox](https://github.com/opencobra/cobratoolbox)**)  
