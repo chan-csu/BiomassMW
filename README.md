@@ -17,5 +17,9 @@ For converting chemical formulas into a matrix and checking the elemental balanc
 2. `elementalMatrixToFormulae`  
 For converting a matrix into chemical formulas  
 
-Example MATLAB script:
-`computeMetFormulae_example`
+Test script:
+`testComputeMetFormulae.m`
+
+Example scripts:
+`example1.m`
+`example2.m`
